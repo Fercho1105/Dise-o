@@ -1,2 +1,2 @@
-# Dise-o
+# Diseno
 Proyecto final diseño
